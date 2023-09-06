@@ -1,6 +1,6 @@
 # OJ City 
 est. 9/1/2023
-- [Back to OJ City](https://oj-city-prototype.glitch.me/)
+- [Back to OJ City](https://ojgames.github.io)
 ## What is OJ City?
 OJ City is a game-ified community for people interested in the progress and development of OJ Games. Explore OJ City and stay tuned for frequent additions such as new areas, easter eggs, and updates on the development of your favorite games.
 
